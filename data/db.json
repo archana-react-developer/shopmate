@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": "100",
+      "name": "Echo Dot (5th Gen)",
+      "category": "Smart Home",
+      "price": 49.99,
+      "image": "https://m.media-amazon.com/images/I/71yRY8YlAbL._AC_SL1500_.jpg",
+      "description": "Smart speaker with voice assistant for hands-free control and music." 
+    },
+    {
+      "id": "200",
+      "name": "Fire TV Stick 4K",
+      "category": "Streaming Devices",
+      "price": 39.99,
+      "image": "https://m.media-amazon.com/images/I/61XGGd7lh+L._AC_SL1500_.jpg",
+      "description": "Stream in 4K with voice remote and Dolby Vision support." 
+    },
+    {
+      "id": "3",
+      "name": "Kindle Paperwhite",
+      "category": "E-Readers",
+      "price": 139.99,
+      "image": "https://m.media-amazon.com/images/I/81cOAQnitYL._AC_SL1500_.jpg",
+      "description": "Waterproof e-reader with high-resolution display and adjustable warm light."
+    },
+    {
+      "id": "4",
+      "name": "Apple AirPods Pro (2nd Gen)",
+      "category": "Electronics",
+      "price": 249,
+      "image": "https://m.media-amazon.com/images/I/614DL+85WJL._AC_SL1500_.jpg",
+      "description": "Noise-canceling earbuds with adaptive transparency and spatial audio."
+    },
+    {
+      "id": "5",
+      "name": "Instant Pot Duo 7-in-1",
+      "category": "Kitchen",
+      "price": 99.95,
+      "image": "https://m.media-amazon.com/images/I/71qc4ccAbBL._AC_SL1500_.jpg",
+      "description": "Multi-use electric pressure cooker for fast and easy meals."
+    },
+    {
+      "id": "6",
+      "name": "Samsung 32-Inch Smart Monitor M8",
+      "category": "Monitors",
+      "price": 699.99,
+      "image": "https://m.media-amazon.com/images/I/71+nNDxYpsL._AC_SL1500_.jpg",
+      "description": "Smart 4K UHD monitor with built-in streaming and webcam."
+    }
+  ]
+}
